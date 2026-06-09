@@ -1,512 +1,512 @@
 {
   "meta": {
-    "generatedAt": "2026-06-09T13:43:13.318Z",
+    "generatedAt": "2026-06-09T16:30:05.478Z",
     "source": "mock",
     "refreshMinutes": 30
   },
   "countries": {
     "PT": [
       {
-        "id": "PT-0-1781012593318",
-        "title": "Elections debate",
+        "id": "PT-0-1781022605478",
+        "title": "Tech layoffs",
         "type": "search",
-        "updatedAt": "2026-06-09T13:43:13.318Z",
-        "popularity": 53
+        "updatedAt": "2026-06-09T16:30:05.478Z",
+        "popularity": 30
       },
       {
-        "id": "PT-1-1781012593318",
-        "title": "Elections debate",
-        "type": "news",
-        "updatedAt": "2026-06-09T13:43:13.318Z",
-        "popularity": 32
-      },
-      {
-        "id": "PT-2-1781012593318",
-        "title": "AI tools",
-        "type": "news",
-        "updatedAt": "2026-06-09T13:43:13.318Z",
-        "popularity": 5
-      },
-      {
-        "id": "PT-3-1781012593318",
-        "title": "Elections debate",
-        "type": "news",
-        "updatedAt": "2026-06-09T13:43:13.318Z",
-        "popularity": 44
-      },
-      {
-        "id": "PT-4-1781012593318",
-        "title": "AI tools",
-        "type": "news",
-        "updatedAt": "2026-06-09T13:43:13.318Z",
-        "popularity": 73
-      },
-      {
-        "id": "PT-5-1781012593318",
-        "title": "Space mission",
-        "type": "social",
-        "updatedAt": "2026-06-09T13:43:13.318Z",
+        "id": "PT-1-1781022605478",
+        "title": "Tech layoffs",
+        "type": "search",
+        "updatedAt": "2026-06-09T16:30:05.478Z",
         "popularity": 7
       },
       {
-        "id": "PT-6-1781012593318",
-        "title": "Space mission",
-        "type": "social",
-        "updatedAt": "2026-06-09T13:43:13.318Z",
-        "popularity": 54
-      },
-      {
-        "id": "PT-7-1781012593318",
-        "title": "Elections debate",
-        "type": "search",
-        "updatedAt": "2026-06-09T13:43:13.318Z",
-        "popularity": 92
-      },
-      {
-        "id": "PT-8-1781012593318",
-        "title": "Elections debate",
-        "type": "social",
-        "updatedAt": "2026-06-09T13:43:13.318Z",
-        "popularity": 86
-      },
-      {
-        "id": "PT-9-1781012593318",
+        "id": "PT-2-1781022605478",
         "title": "Tech layoffs",
+        "type": "news",
+        "updatedAt": "2026-06-09T16:30:05.478Z",
+        "popularity": 40
+      },
+      {
+        "id": "PT-3-1781022605478",
+        "title": "New movie trailer",
+        "type": "news",
+        "updatedAt": "2026-06-09T16:30:05.478Z",
+        "popularity": 34
+      },
+      {
+        "id": "PT-4-1781022605478",
+        "title": "Football transfer",
         "type": "search",
-        "updatedAt": "2026-06-09T13:43:13.318Z",
-        "popularity": 30
+        "updatedAt": "2026-06-09T16:30:05.478Z",
+        "popularity": 5
+      },
+      {
+        "id": "PT-5-1781022605478",
+        "title": "AI tools",
+        "type": "search",
+        "updatedAt": "2026-06-09T16:30:05.478Z",
+        "popularity": 43
+      },
+      {
+        "id": "PT-6-1781022605478",
+        "title": "New movie trailer",
+        "type": "news",
+        "updatedAt": "2026-06-09T16:30:05.478Z",
+        "popularity": 64
+      },
+      {
+        "id": "PT-7-1781022605478",
+        "title": "New movie trailer",
+        "type": "social",
+        "updatedAt": "2026-06-09T16:30:05.478Z",
+        "popularity": 33
+      },
+      {
+        "id": "PT-8-1781022605478",
+        "title": "Tech layoffs",
+        "type": "news",
+        "updatedAt": "2026-06-09T16:30:05.478Z",
+        "popularity": 3
+      },
+      {
+        "id": "PT-9-1781022605479",
+        "title": "AI tools",
+        "type": "social",
+        "updatedAt": "2026-06-09T16:30:05.479Z",
+        "popularity": 12
       }
     ],
     "ES": [
       {
-        "id": "ES-0-1781012593318",
-        "title": "Tech layoffs",
-        "type": "social",
-        "updatedAt": "2026-06-09T13:43:13.318Z",
-        "popularity": 56
-      },
-      {
-        "id": "ES-1-1781012593318",
+        "id": "ES-0-1781022605479",
         "title": "Elections debate",
         "type": "search",
-        "updatedAt": "2026-06-09T13:43:13.318Z",
-        "popularity": 89
+        "updatedAt": "2026-06-09T16:30:05.479Z",
+        "popularity": 26
       },
       {
-        "id": "ES-2-1781012593318",
+        "id": "ES-1-1781022605479",
         "title": "Tech layoffs",
         "type": "social",
-        "updatedAt": "2026-06-09T13:43:13.318Z",
-        "popularity": 59
+        "updatedAt": "2026-06-09T16:30:05.479Z",
+        "popularity": 63
       },
       {
-        "id": "ES-3-1781012593318",
+        "id": "ES-2-1781022605479",
+        "title": "Crypto market",
+        "type": "search",
+        "updatedAt": "2026-06-09T16:30:05.479Z",
+        "popularity": 66
+      },
+      {
+        "id": "ES-3-1781022605479",
+        "title": "Elections debate",
+        "type": "news",
+        "updatedAt": "2026-06-09T16:30:05.479Z",
+        "popularity": 84
+      },
+      {
+        "id": "ES-4-1781022605479",
+        "title": "Tech layoffs",
+        "type": "news",
+        "updatedAt": "2026-06-09T16:30:05.479Z",
+        "popularity": 84
+      },
+      {
+        "id": "ES-5-1781022605479",
+        "title": "New movie trailer",
+        "type": "news",
+        "updatedAt": "2026-06-09T16:30:05.479Z",
+        "popularity": 1
+      },
+      {
+        "id": "ES-6-1781022605479",
         "title": "Space mission",
         "type": "news",
-        "updatedAt": "2026-06-09T13:43:13.318Z",
-        "popularity": 36
+        "updatedAt": "2026-06-09T16:30:05.479Z",
+        "popularity": 54
       },
       {
-        "id": "ES-4-1781012593318",
-        "title": "Tech layoffs",
-        "type": "search",
-        "updatedAt": "2026-06-09T13:43:13.318Z",
-        "popularity": 64
-      },
-      {
-        "id": "ES-5-1781012593318",
+        "id": "ES-7-1781022605479",
         "title": "Crypto market",
         "type": "social",
-        "updatedAt": "2026-06-09T13:43:13.318Z",
-        "popularity": 37
+        "updatedAt": "2026-06-09T16:30:05.479Z",
+        "popularity": 96
       },
       {
-        "id": "ES-6-1781012593318",
-        "title": "Crypto market",
+        "id": "ES-8-1781022605479",
+        "title": "AI tools",
         "type": "news",
-        "updatedAt": "2026-06-09T13:43:13.318Z",
-        "popularity": 10
+        "updatedAt": "2026-06-09T16:30:05.479Z",
+        "popularity": 51
       },
       {
-        "id": "ES-7-1781012593318",
-        "title": "Crypto market",
+        "id": "ES-9-1781022605479",
+        "title": "Football transfer",
         "type": "search",
-        "updatedAt": "2026-06-09T13:43:13.318Z",
-        "popularity": 90
-      },
-      {
-        "id": "ES-8-1781012593318",
-        "title": "Tech layoffs",
-        "type": "news",
-        "updatedAt": "2026-06-09T13:43:13.318Z",
-        "popularity": 48
-      },
-      {
-        "id": "ES-9-1781012593318",
-        "title": "Tech layoffs",
-        "type": "news",
-        "updatedAt": "2026-06-09T13:43:13.318Z",
-        "popularity": 11
+        "updatedAt": "2026-06-09T16:30:05.479Z",
+        "popularity": 42
       }
     ],
     "FR": [
       {
-        "id": "FR-0-1781012593318",
-        "title": "Tech layoffs",
-        "type": "search",
-        "updatedAt": "2026-06-09T13:43:13.318Z",
-        "popularity": 70
-      },
-      {
-        "id": "FR-1-1781012593318",
+        "id": "FR-0-1781022605479",
         "title": "Football transfer",
-        "type": "social",
-        "updatedAt": "2026-06-09T13:43:13.318Z",
-        "popularity": 91
+        "type": "news",
+        "updatedAt": "2026-06-09T16:30:05.479Z",
+        "popularity": 83
       },
       {
-        "id": "FR-2-1781012593318",
+        "id": "FR-1-1781022605479",
+        "title": "Tech layoffs",
+        "type": "social",
+        "updatedAt": "2026-06-09T16:30:05.479Z",
+        "popularity": 62
+      },
+      {
+        "id": "FR-2-1781022605479",
         "title": "Elections debate",
-        "type": "news",
-        "updatedAt": "2026-06-09T13:43:13.318Z",
-        "popularity": 98
-      },
-      {
-        "id": "FR-3-1781012593318",
-        "title": "Football transfer",
-        "type": "news",
-        "updatedAt": "2026-06-09T13:43:13.318Z",
-        "popularity": 59
-      },
-      {
-        "id": "FR-4-1781012593318",
-        "title": "Tech layoffs",
-        "type": "search",
-        "updatedAt": "2026-06-09T13:43:13.318Z",
-        "popularity": 68
-      },
-      {
-        "id": "FR-5-1781012593318",
-        "title": "Football transfer",
         "type": "social",
-        "updatedAt": "2026-06-09T13:43:13.318Z",
-        "popularity": 50
+        "updatedAt": "2026-06-09T16:30:05.479Z",
+        "popularity": 3
       },
       {
-        "id": "FR-6-1781012593318",
-        "title": "Space mission",
-        "type": "news",
-        "updatedAt": "2026-06-09T13:43:13.318Z",
-        "popularity": 41
+        "id": "FR-3-1781022605479",
+        "title": "New movie trailer",
+        "type": "search",
+        "updatedAt": "2026-06-09T16:30:05.479Z",
+        "popularity": 27
       },
       {
-        "id": "FR-7-1781012593318",
-        "title": "AI tools",
-        "type": "news",
-        "updatedAt": "2026-06-09T13:43:13.318Z",
-        "popularity": 73
-      },
-      {
-        "id": "FR-8-1781012593318",
-        "title": "Tech layoffs",
-        "type": "news",
-        "updatedAt": "2026-06-09T13:43:13.318Z",
-        "popularity": 34
-      },
-      {
-        "id": "FR-9-1781012593318",
+        "id": "FR-4-1781022605479",
         "title": "Crypto market",
         "type": "news",
-        "updatedAt": "2026-06-09T13:43:13.318Z",
-        "popularity": 21
+        "updatedAt": "2026-06-09T16:30:05.479Z",
+        "popularity": 83
+      },
+      {
+        "id": "FR-5-1781022605479",
+        "title": "AI tools",
+        "type": "news",
+        "updatedAt": "2026-06-09T16:30:05.479Z",
+        "popularity": 61
+      },
+      {
+        "id": "FR-6-1781022605479",
+        "title": "AI tools",
+        "type": "news",
+        "updatedAt": "2026-06-09T16:30:05.479Z",
+        "popularity": 37
+      },
+      {
+        "id": "FR-7-1781022605479",
+        "title": "AI tools",
+        "type": "search",
+        "updatedAt": "2026-06-09T16:30:05.479Z",
+        "popularity": 42
+      },
+      {
+        "id": "FR-8-1781022605479",
+        "title": "New movie trailer",
+        "type": "news",
+        "updatedAt": "2026-06-09T16:30:05.479Z",
+        "popularity": 1
+      },
+      {
+        "id": "FR-9-1781022605479",
+        "title": "Football transfer",
+        "type": "search",
+        "updatedAt": "2026-06-09T16:30:05.479Z",
+        "popularity": 91
       }
     ],
     "US": [
       {
-        "id": "US-0-1781012593318",
-        "title": "New movie trailer",
-        "type": "social",
-        "updatedAt": "2026-06-09T13:43:13.318Z",
-        "popularity": 81
-      },
-      {
-        "id": "US-1-1781012593318",
-        "title": "Space mission",
-        "type": "social",
-        "updatedAt": "2026-06-09T13:43:13.318Z",
-        "popularity": 10
-      },
-      {
-        "id": "US-2-1781012593318",
-        "title": "New movie trailer",
-        "type": "news",
-        "updatedAt": "2026-06-09T13:43:13.318Z",
-        "popularity": 0
-      },
-      {
-        "id": "US-3-1781012593318",
-        "title": "Tech layoffs",
-        "type": "search",
-        "updatedAt": "2026-06-09T13:43:13.318Z",
-        "popularity": 20
-      },
-      {
-        "id": "US-4-1781012593318",
+        "id": "US-0-1781022605479",
         "title": "Crypto market",
-        "type": "social",
-        "updatedAt": "2026-06-09T13:43:13.318Z",
-        "popularity": 24
+        "type": "search",
+        "updatedAt": "2026-06-09T16:30:05.479Z",
+        "popularity": 70
       },
       {
-        "id": "US-5-1781012593318",
-        "title": "Football transfer",
+        "id": "US-1-1781022605479",
+        "title": "Tech layoffs",
+        "type": "social",
+        "updatedAt": "2026-06-09T16:30:05.479Z",
+        "popularity": 84
+      },
+      {
+        "id": "US-2-1781022605479",
+        "title": "Tech layoffs",
+        "type": "social",
+        "updatedAt": "2026-06-09T16:30:05.479Z",
+        "popularity": 60
+      },
+      {
+        "id": "US-3-1781022605479",
+        "title": "New movie trailer",
         "type": "news",
-        "updatedAt": "2026-06-09T13:43:13.318Z",
-        "popularity": 73
+        "updatedAt": "2026-06-09T16:30:05.479Z",
+        "popularity": 27
       },
       {
-        "id": "US-6-1781012593318",
-        "title": "Tech layoffs",
-        "type": "social",
-        "updatedAt": "2026-06-09T13:43:13.318Z",
-        "popularity": 93
-      },
-      {
-        "id": "US-7-1781012593318",
-        "title": "Tech layoffs",
-        "type": "social",
-        "updatedAt": "2026-06-09T13:43:13.318Z",
-        "popularity": 1
-      },
-      {
-        "id": "US-8-1781012593318",
-        "title": "Space mission",
-        "type": "social",
-        "updatedAt": "2026-06-09T13:43:13.318Z",
-        "popularity": 81
-      },
-      {
-        "id": "US-9-1781012593318",
+        "id": "US-4-1781022605479",
         "title": "AI tools",
+        "type": "search",
+        "updatedAt": "2026-06-09T16:30:05.479Z",
+        "popularity": 63
+      },
+      {
+        "id": "US-5-1781022605479",
+        "title": "AI tools",
+        "type": "news",
+        "updatedAt": "2026-06-09T16:30:05.479Z",
+        "popularity": 11
+      },
+      {
+        "id": "US-6-1781022605479",
+        "title": "Football transfer",
         "type": "social",
-        "updatedAt": "2026-06-09T13:43:13.318Z",
-        "popularity": 30
+        "updatedAt": "2026-06-09T16:30:05.479Z",
+        "popularity": 74
+      },
+      {
+        "id": "US-7-1781022605479",
+        "title": "Football transfer",
+        "type": "search",
+        "updatedAt": "2026-06-09T16:30:05.479Z",
+        "popularity": 21
+      },
+      {
+        "id": "US-8-1781022605479",
+        "title": "Football transfer",
+        "type": "social",
+        "updatedAt": "2026-06-09T16:30:05.479Z",
+        "popularity": 49
+      },
+      {
+        "id": "US-9-1781022605479",
+        "title": "New movie trailer",
+        "type": "social",
+        "updatedAt": "2026-06-09T16:30:05.479Z",
+        "popularity": 67
       }
     ],
     "BR": [
       {
-        "id": "BR-0-1781012593318",
-        "title": "New movie trailer",
-        "type": "search",
-        "updatedAt": "2026-06-09T13:43:13.318Z",
-        "popularity": 77
+        "id": "BR-0-1781022605479",
+        "title": "Tech layoffs",
+        "type": "social",
+        "updatedAt": "2026-06-09T16:30:05.479Z",
+        "popularity": 86
       },
       {
-        "id": "BR-1-1781012593318",
-        "title": "Space mission",
-        "type": "news",
-        "updatedAt": "2026-06-09T13:43:13.318Z",
-        "popularity": 84
-      },
-      {
-        "id": "BR-2-1781012593318",
-        "title": "Space mission",
+        "id": "BR-1-1781022605479",
+        "title": "Crypto market",
         "type": "search",
-        "updatedAt": "2026-06-09T13:43:13.318Z",
+        "updatedAt": "2026-06-09T16:30:05.479Z",
         "popularity": 87
       },
       {
-        "id": "BR-3-1781012593318",
-        "title": "Crypto market",
-        "type": "social",
-        "updatedAt": "2026-06-09T13:43:13.318Z",
-        "popularity": 9
-      },
-      {
-        "id": "BR-4-1781012593318",
-        "title": "Crypto market",
+        "id": "BR-2-1781022605479",
+        "title": "Tech layoffs",
         "type": "news",
-        "updatedAt": "2026-06-09T13:43:13.318Z",
-        "popularity": 61
+        "updatedAt": "2026-06-09T16:30:05.479Z",
+        "popularity": 57
       },
       {
-        "id": "BR-5-1781012593318",
+        "id": "BR-3-1781022605479",
         "title": "Tech layoffs",
         "type": "social",
-        "updatedAt": "2026-06-09T13:43:13.318Z",
-        "popularity": 31
+        "updatedAt": "2026-06-09T16:30:05.479Z",
+        "popularity": 75
       },
       {
-        "id": "BR-6-1781012593318",
-        "title": "Elections debate",
+        "id": "BR-4-1781022605479",
+        "title": "Tech layoffs",
         "type": "search",
-        "updatedAt": "2026-06-09T13:43:13.318Z",
-        "popularity": 43
+        "updatedAt": "2026-06-09T16:30:05.479Z",
+        "popularity": 17
       },
       {
-        "id": "BR-7-1781012593318",
-        "title": "New movie trailer",
-        "type": "news",
-        "updatedAt": "2026-06-09T13:43:13.318Z",
-        "popularity": 28
-      },
-      {
-        "id": "BR-8-1781012593318",
+        "id": "BR-5-1781022605479",
         "title": "Crypto market",
         "type": "social",
-        "updatedAt": "2026-06-09T13:43:13.318Z",
-        "popularity": 61
+        "updatedAt": "2026-06-09T16:30:05.479Z",
+        "popularity": 4
       },
       {
-        "id": "BR-9-1781012593318",
+        "id": "BR-6-1781022605479",
+        "title": "Football transfer",
+        "type": "search",
+        "updatedAt": "2026-06-09T16:30:05.479Z",
+        "popularity": 73
+      },
+      {
+        "id": "BR-7-1781022605479",
         "title": "Tech layoffs",
+        "type": "news",
+        "updatedAt": "2026-06-09T16:30:05.479Z",
+        "popularity": 94
+      },
+      {
+        "id": "BR-8-1781022605479",
+        "title": "AI tools",
         "type": "social",
-        "updatedAt": "2026-06-09T13:43:13.318Z",
-        "popularity": 5
+        "updatedAt": "2026-06-09T16:30:05.479Z",
+        "popularity": 72
+      },
+      {
+        "id": "BR-9-1781022605479",
+        "title": "Crypto market",
+        "type": "news",
+        "updatedAt": "2026-06-09T16:30:05.479Z",
+        "popularity": 12
       }
     ],
     "GB": [
       {
-        "id": "GB-0-1781012593318",
-        "title": "Space mission",
-        "type": "social",
-        "updatedAt": "2026-06-09T13:43:13.318Z",
-        "popularity": 4
+        "id": "GB-0-1781022605479",
+        "title": "Crypto market",
+        "type": "news",
+        "updatedAt": "2026-06-09T16:30:05.479Z",
+        "popularity": 34
       },
       {
-        "id": "GB-1-1781012593318",
-        "title": "New movie trailer",
-        "type": "social",
-        "updatedAt": "2026-06-09T13:43:13.318Z",
-        "popularity": 46
-      },
-      {
-        "id": "GB-2-1781012593318",
+        "id": "GB-1-1781022605479",
         "title": "Tech layoffs",
-        "type": "search",
-        "updatedAt": "2026-06-09T13:43:13.318Z",
+        "type": "social",
+        "updatedAt": "2026-06-09T16:30:05.479Z",
         "popularity": 14
       },
       {
-        "id": "GB-3-1781012593318",
-        "title": "Crypto market",
-        "type": "news",
-        "updatedAt": "2026-06-09T13:43:13.318Z",
-        "popularity": 39
-      },
-      {
-        "id": "GB-4-1781012593318",
-        "title": "Tech layoffs",
-        "type": "search",
-        "updatedAt": "2026-06-09T13:43:13.318Z",
-        "popularity": 52
-      },
-      {
-        "id": "GB-5-1781012593318",
+        "id": "GB-2-1781022605479",
         "title": "Football transfer",
-        "type": "news",
-        "updatedAt": "2026-06-09T13:43:13.318Z",
-        "popularity": 26
+        "type": "social",
+        "updatedAt": "2026-06-09T16:30:05.479Z",
+        "popularity": 32
       },
       {
-        "id": "GB-6-1781012593318",
-        "title": "AI tools",
-        "type": "news",
-        "updatedAt": "2026-06-09T13:43:13.318Z",
-        "popularity": 5
-      },
-      {
-        "id": "GB-7-1781012593318",
+        "id": "GB-3-1781022605479",
         "title": "Crypto market",
         "type": "social",
-        "updatedAt": "2026-06-09T13:43:13.318Z",
-        "popularity": 77
+        "updatedAt": "2026-06-09T16:30:05.479Z",
+        "popularity": 67
       },
       {
-        "id": "GB-8-1781012593318",
-        "title": "Tech layoffs",
+        "id": "GB-4-1781022605479",
+        "title": "Space mission",
         "type": "social",
-        "updatedAt": "2026-06-09T13:43:13.318Z",
-        "popularity": 80
+        "updatedAt": "2026-06-09T16:30:05.479Z",
+        "popularity": 33
       },
       {
-        "id": "GB-9-1781012593318",
+        "id": "GB-5-1781022605479",
         "title": "Elections debate",
+        "type": "social",
+        "updatedAt": "2026-06-09T16:30:05.479Z",
+        "popularity": 34
+      },
+      {
+        "id": "GB-6-1781022605479",
+        "title": "Crypto market",
+        "type": "news",
+        "updatedAt": "2026-06-09T16:30:05.479Z",
+        "popularity": 67
+      },
+      {
+        "id": "GB-7-1781022605479",
+        "title": "Crypto market",
         "type": "search",
-        "updatedAt": "2026-06-09T13:43:13.318Z",
-        "popularity": 47
+        "updatedAt": "2026-06-09T16:30:05.479Z",
+        "popularity": 48
+      },
+      {
+        "id": "GB-8-1781022605479",
+        "title": "Elections debate",
+        "type": "social",
+        "updatedAt": "2026-06-09T16:30:05.479Z",
+        "popularity": 31
+      },
+      {
+        "id": "GB-9-1781022605479",
+        "title": "Elections debate",
+        "type": "social",
+        "updatedAt": "2026-06-09T16:30:05.479Z",
+        "popularity": 16
       }
     ],
     "DE": [
       {
-        "id": "DE-0-1781012593318",
-        "title": "AI tools",
-        "type": "news",
-        "updatedAt": "2026-06-09T13:43:13.318Z",
-        "popularity": 77
-      },
-      {
-        "id": "DE-1-1781012593318",
-        "title": "Crypto market",
-        "type": "search",
-        "updatedAt": "2026-06-09T13:43:13.318Z",
-        "popularity": 51
-      },
-      {
-        "id": "DE-2-1781012593318",
-        "title": "Tech layoffs",
-        "type": "social",
-        "updatedAt": "2026-06-09T13:43:13.318Z",
-        "popularity": 62
-      },
-      {
-        "id": "DE-3-1781012593318",
-        "title": "AI tools",
-        "type": "news",
-        "updatedAt": "2026-06-09T13:43:13.318Z",
-        "popularity": 0
-      },
-      {
-        "id": "DE-4-1781012593318",
-        "title": "Space mission",
-        "type": "search",
-        "updatedAt": "2026-06-09T13:43:13.318Z",
-        "popularity": 31
-      },
-      {
-        "id": "DE-5-1781012593318",
-        "title": "Tech layoffs",
-        "type": "search",
-        "updatedAt": "2026-06-09T13:43:13.318Z",
-        "popularity": 27
-      },
-      {
-        "id": "DE-6-1781012593318",
-        "title": "New movie trailer",
-        "type": "search",
-        "updatedAt": "2026-06-09T13:43:13.318Z",
-        "popularity": 80
-      },
-      {
-        "id": "DE-7-1781012593318",
-        "title": "Football transfer",
-        "type": "search",
-        "updatedAt": "2026-06-09T13:43:13.318Z",
-        "popularity": 46
-      },
-      {
-        "id": "DE-8-1781012593318",
+        "id": "DE-0-1781022605479",
         "title": "Elections debate",
         "type": "news",
-        "updatedAt": "2026-06-09T13:43:13.318Z",
-        "popularity": 8
+        "updatedAt": "2026-06-09T16:30:05.479Z",
+        "popularity": 12
       },
       {
-        "id": "DE-9-1781012593318",
+        "id": "DE-1-1781022605479",
+        "title": "AI tools",
+        "type": "social",
+        "updatedAt": "2026-06-09T16:30:05.479Z",
+        "popularity": 32
+      },
+      {
+        "id": "DE-2-1781022605479",
+        "title": "AI tools",
+        "type": "search",
+        "updatedAt": "2026-06-09T16:30:05.479Z",
+        "popularity": 7
+      },
+      {
+        "id": "DE-3-1781022605479",
+        "title": "Football transfer",
+        "type": "social",
+        "updatedAt": "2026-06-09T16:30:05.479Z",
+        "popularity": 52
+      },
+      {
+        "id": "DE-4-1781022605479",
+        "title": "Space mission",
+        "type": "news",
+        "updatedAt": "2026-06-09T16:30:05.479Z",
+        "popularity": 24
+      },
+      {
+        "id": "DE-5-1781022605479",
+        "title": "Elections debate",
+        "type": "search",
+        "updatedAt": "2026-06-09T16:30:05.479Z",
+        "popularity": 50
+      },
+      {
+        "id": "DE-6-1781022605479",
+        "title": "Tech layoffs",
+        "type": "search",
+        "updatedAt": "2026-06-09T16:30:05.479Z",
+        "popularity": 33
+      },
+      {
+        "id": "DE-7-1781022605479",
         "title": "Crypto market",
         "type": "search",
-        "updatedAt": "2026-06-09T13:43:13.318Z",
-        "popularity": 20
+        "updatedAt": "2026-06-09T16:30:05.479Z",
+        "popularity": 36
+      },
+      {
+        "id": "DE-8-1781022605479",
+        "title": "Space mission",
+        "type": "search",
+        "updatedAt": "2026-06-09T16:30:05.479Z",
+        "popularity": 66
+      },
+      {
+        "id": "DE-9-1781022605479",
+        "title": "New movie trailer",
+        "type": "search",
+        "updatedAt": "2026-06-09T16:30:05.479Z",
+        "popularity": 2
       }
     ]
   }
